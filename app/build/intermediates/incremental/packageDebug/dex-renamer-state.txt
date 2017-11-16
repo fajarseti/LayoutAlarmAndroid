@@ -1,0 +1,7 @@
+#Wed Nov 01 14:21:17 ICT 2017
+base.0=E\:\\MyAlarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3c2ba4f0953bf11f4ea69bd774646caa204de7a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\MyAlarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_af6ef2d246113e9d13cfce6d5af498c24b7d53d7\\classes.dex
+base.1=E\:\\MyAlarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_af6ef2d246113e9d13cfce6d5af498c24b7d53d7
+file.0=E\:\\MyAlarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3c2ba4f0953bf11f4ea69bd774646caa204de7a\\classes.dex
